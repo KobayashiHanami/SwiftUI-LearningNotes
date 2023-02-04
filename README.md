@@ -1,7 +1,7 @@
 # SwiftUI-LearningNotes
 
 - Version: SwiftUI 
-- Xcode: 
+- Xcode:  14.2 (14C18)
 - Time: 2022-2
 
 这是我的 SwiftUI 语法学习笔记
